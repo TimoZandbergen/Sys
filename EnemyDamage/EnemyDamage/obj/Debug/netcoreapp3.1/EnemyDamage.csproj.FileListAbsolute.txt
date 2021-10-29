@@ -1,0 +1,13 @@
+C:\Users\zandb\Documents\MA\Bewijzenmap2\Periode 1\Sys\Programnmeren\EnemyDamage\EnemyDamage\bin\Debug\netcoreapp3.1\EnemyDamage.exe
+C:\Users\zandb\Documents\MA\Bewijzenmap2\Periode 1\Sys\Programnmeren\EnemyDamage\EnemyDamage\bin\Debug\netcoreapp3.1\EnemyDamage.deps.json
+C:\Users\zandb\Documents\MA\Bewijzenmap2\Periode 1\Sys\Programnmeren\EnemyDamage\EnemyDamage\bin\Debug\netcoreapp3.1\EnemyDamage.runtimeconfig.json
+C:\Users\zandb\Documents\MA\Bewijzenmap2\Periode 1\Sys\Programnmeren\EnemyDamage\EnemyDamage\bin\Debug\netcoreapp3.1\EnemyDamage.runtimeconfig.dev.json
+C:\Users\zandb\Documents\MA\Bewijzenmap2\Periode 1\Sys\Programnmeren\EnemyDamage\EnemyDamage\bin\Debug\netcoreapp3.1\EnemyDamage.dll
+C:\Users\zandb\Documents\MA\Bewijzenmap2\Periode 1\Sys\Programnmeren\EnemyDamage\EnemyDamage\bin\Debug\netcoreapp3.1\EnemyDamage.pdb
+C:\Users\zandb\Documents\MA\Bewijzenmap2\Periode 1\Sys\Programnmeren\EnemyDamage\EnemyDamage\obj\Debug\netcoreapp3.1\EnemyDamage.csprojAssemblyReference.cache
+C:\Users\zandb\Documents\MA\Bewijzenmap2\Periode 1\Sys\Programnmeren\EnemyDamage\EnemyDamage\obj\Debug\netcoreapp3.1\EnemyDamage.AssemblyInfoInputs.cache
+C:\Users\zandb\Documents\MA\Bewijzenmap2\Periode 1\Sys\Programnmeren\EnemyDamage\EnemyDamage\obj\Debug\netcoreapp3.1\EnemyDamage.AssemblyInfo.cs
+C:\Users\zandb\Documents\MA\Bewijzenmap2\Periode 1\Sys\Programnmeren\EnemyDamage\EnemyDamage\obj\Debug\netcoreapp3.1\EnemyDamage.csproj.CoreCompileInputs.cache
+C:\Users\zandb\Documents\MA\Bewijzenmap2\Periode 1\Sys\Programnmeren\EnemyDamage\EnemyDamage\obj\Debug\netcoreapp3.1\EnemyDamage.dll
+C:\Users\zandb\Documents\MA\Bewijzenmap2\Periode 1\Sys\Programnmeren\EnemyDamage\EnemyDamage\obj\Debug\netcoreapp3.1\EnemyDamage.pdb
+C:\Users\zandb\Documents\MA\Bewijzenmap2\Periode 1\Sys\Programnmeren\EnemyDamage\EnemyDamage\obj\Debug\netcoreapp3.1\EnemyDamage.genruntimeconfig.cache
